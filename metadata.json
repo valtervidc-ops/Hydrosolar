@@ -1,0 +1,5 @@
+{
+  "name": "HydroSolar Dimensioning",
+  "description": "Integrated software for dimensioning water supply systems powered by solar energy, including hydraulic calculations, pump sizing, and photovoltaic array estimation.",
+  "requestFramePermissions": []
+}
